@@ -34,3 +34,29 @@
     background-color: var(--hover);
     border-radius: 13px;
 }
+.col-center{
+    float: none;
+    display: block;
+    margin: 0 auto;
+}
+div.media-left > span{
+    font-size: 1em;
+    padding: .9em;
+}
+div.media-body > span{
+    color: white;
+    font-size: .8em;
+    /* padding: .9em; */
+}
+/* #welcome-hero > div > div > div > div > div > div:nth-child(1) */
+.colborder {
+    /* height: 10px; */
+    /* display: block; */
+    /* width: 100px; */
+    /* background: #808080; */
+    border-right: 4px dotted rgb(92, 92, 92);
+    /* content: ''; */
+}
+.colspace{
+    margin: 2em 0 0 0;
+}
