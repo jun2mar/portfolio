@@ -14,9 +14,9 @@
     flex-wrap: wrap;
 }
 .skills-list.hard>li {
-    height: 10rem;
-    width: 10rem;
-    padding: .5rem;
+    height: 7rem;
+    width: 7rem;
+    padding: 1rem;
     font-size: .8rem;
     border-radius: 10px;
     color: var(--text_2);
@@ -25,7 +25,7 @@
 .skills-list>li {
     aspect-ratio: 1 / 1;
     display: flex;
-    gap: .5rem;
+    gap: .9rem;
     flex-direction: column;
     justify-content: center;
     align-items: center;
